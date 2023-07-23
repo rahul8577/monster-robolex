@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monster-robolex/static/css/main.61d0e6a6.css",
+    "main.js": "/monster-robolex/static/js/main.5f6ce55e.js",
+    "index.html": "/monster-robolex/index.html",
+    "main.61d0e6a6.css.map": "/monster-robolex/static/css/main.61d0e6a6.css.map",
+    "main.5f6ce55e.js.map": "/monster-robolex/static/js/main.5f6ce55e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d0e6a6.css",
+    "static/js/main.5f6ce55e.js"
+  ]
+}
